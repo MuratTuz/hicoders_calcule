@@ -1,2 +1,2 @@
 # hicoders_calcule
-educational repository
+educational repository for node.js modules
